@@ -1,4 +1,4 @@
-# Fedora 43 Config
+# Fedora 44 Config
 
 This is my Fedora 43 Linux configuration with all my installed apps and how to configure them. Here I also keep track of what commands and system files I run or edit that change how my environment functions.
 
